@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- the interactive way of learning
+- basic terminal things that will be taught
 
 1. Numbered
 2. List
